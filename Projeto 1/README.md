@@ -10,3 +10,16 @@ Transformar os arquivos CSV dos dados abertos em **grafos** que permitam:
 - Construir e analisar **grafos bipartidos** (ex.: aluno ↔ disciplina);
 - Observar propriedades estruturais das redes acadêmicas;
 - Criar **visualizações gráficas** que facilitem a interpretação dos dados.
+
+## 📂 Estrutura do Projeto
+
+- `Projeto_1.ipynb` → Notebook principal com todo o código, análises e visualizações.
+- `data/` → Pasta contendo os arquivos CSV extraídos do portal de [Dados Abertos da UFRN](https://dados.ufrn.br/).
+
+## 🛠️ Tecnologias Utilizadas
+
+- [Python 3](https://www.python.org/)
+- [Pandas](https://pandas.pydata.org/) → Manipulação dos dados tabulares (CSV)
+- [NetworkX](https://networkx.org/) → Construção e análise de grafos
+- [Matplotlib](https://matplotlib.org/) → Visualização dos grafos
+- Google Colab → Ambiente de desenvolvimento utilizado
