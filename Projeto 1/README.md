@@ -1,5 +1,7 @@
 # 📚 Projeto 1 - Análise de Grafos dos Dados Abertos da UFRN (Grupo Ensino)
 
+Autor: Gabriel de Oliveira Barreto
+
 Este projeto tem como objetivo **explorar os dados abertos da UFRN** (Universidade Federal do Rio Grande do Norte), especificamente do grupo **Ensino**, utilizando **grafos** como modelo de representação.  
 Através da modelagem de entidades e relacionamentos, é possível **visualizar e analisar** a estrutura acadêmica de forma mais intuitiva.
 
