@@ -14,7 +14,7 @@ Transformar os arquivos CSV dos dados abertos em **grafos** que permitam:
 ## 📂 Estrutura do Projeto
 
 - `Projeto_1.ipynb` → Notebook principal com todo o código, análises e visualizações.
-- `data/` → Pasta contendo os arquivos CSV extraídos do portal de [Dados Abertos da UFRN](https://dados.ufrn.br/).
+- Arquivos CSV extraídos do portal de [Dados Abertos da UFRN](https://dados.ufrn.br/).
 
 ## 🛠️ Tecnologias Utilizadas
 
