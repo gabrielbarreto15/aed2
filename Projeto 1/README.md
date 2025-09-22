@@ -11,7 +11,7 @@ Transformar os arquivos CSV dos dados abertos em **grafos** que permitam:
 - Representar relações entre **alunos, disciplinas, cursos e professores**;
 - Construir e analisar **grafos bipartidos** (ex.: aluno ↔ disciplina);
 - Observar propriedades estruturais das redes acadêmicas;
-- Criar **visualizações gráficas** que facilitem a interpretação dos dados.
+- Criar **visualizações gráficas** que facilitem a interpretação dos dados. (Foi utilizado IA Generativa para a criação dos gráficos)
 
 ## 📂 Estrutura do Projeto
 
