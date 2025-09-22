@@ -23,3 +23,10 @@ Transformar os arquivos CSV dos dados abertos em **grafos** que permitam:
 - [NetworkX](https://networkx.org/) → Construção e análise de grafos
 - [Matplotlib](https://matplotlib.org/) → Visualização dos grafos
 - Google Colab → Ambiente de desenvolvimento utilizado
+
+## ▶️ Como Executar
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/gabrielbarreto15/aed2.git
+   cd aed2
