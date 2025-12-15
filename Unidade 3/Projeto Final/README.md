@@ -108,7 +108,7 @@ Destaca nós que estão conectados a outros nós importantes, capturando uma no�
 
 ![Eigenvector Centrality](img/eigenvector_centrality.png)
 
-Com esse grafo podemos a formação dos clusters com páginas ditas como Hubs que são altamente concetadas, ou seja, referenciadas.
+Com esse grafo podemos ver a formação dos clusters com páginas ditas como Hubs que são altamente conectadas, ou seja, referenciadas.
 
 ### K-core e K-shell
 
