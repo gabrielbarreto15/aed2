@@ -132,4 +132,4 @@ Todos os grafos foram desenvolvidos com a ferramenta Gephi, utilizando o layout 
 
 ## Vídeo de apresentação
 
-[Link do vídeo demonstrativo]()
+[Link do vídeo demonstrativo](https://youtu.be/IFQcgY_wMXM)
